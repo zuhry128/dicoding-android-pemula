@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyTransitionApp</string>
+    <string name="food_name">food name</string>
+    <string name="detail">food detail</string>
+
+    <string name="list">List</string>
+    <string name="about_me">about me</string>
+
+    <string name="detail_makanan">Detail</string>
+
+    <string name="foto_profil">foto profil</string>
+    <string name="nama_saya">Nama saya</string>
+    <string name="email_saya">Email saya</string>
+    <string name="nama">nama</string>
+
+</resources>
