@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.mytransitionapp.AboutMeData.aboutData
 
-class MainActivity : AppCompatActivity() {
+class  MainActivity : AppCompatActivity() {
     private lateinit var rvFoods: RecyclerView
     private var list: ArrayList<Food> = arrayListOf()
     private var parcelList:ArrayList<FoodListAdapter> = arrayListOf()
